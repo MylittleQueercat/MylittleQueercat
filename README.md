@@ -20,7 +20,6 @@ class Huilin:
     school     = "École 42 Paris"
     goal       = "Backend Developer Intern — Available September 2026"
     languages  = ["Mandarin 🇨🇳", "French 🇫🇷", "English 🇬🇧", "Spanish 🇪🇸"]
-    interests  = ["Rock Climbing 🧗", "Running 🏃", "Chinese Chess ♟️"]
 ```
 
 ---
