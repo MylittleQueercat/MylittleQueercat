@@ -13,22 +13,6 @@
 ---
 
 ## 👩‍💻 About Me
-```bash
-$ whoami
-huilin_guo
-
-$ cat profile.txt
-📍 Location  : Paris, France
-🎓 School    : École 42 Paris
-🎯 Goal      : Backend Developer Intern — Available September 2026
-
-$ echo $LANGUAGES
-Mandarin 🇨🇳  French 🇫🇷  English 🇬🇧  Spanish 🇪🇸
-
-$ _
-```
-
-## 👩‍💻 About Me
 
 ```python
 class Huilin:
