@@ -55,7 +55,7 @@ class Huilin:
 
 ---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/你的用户名?theme=dark)](https://leetcode.com/你的用户名)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MylittleQueercat?theme=dark)](https://leetcode.com/你的用户名)
 
 ---
 
