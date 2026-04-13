@@ -18,7 +18,7 @@
 class Huilin:
     location   = "Paris, France"
     school     = "École 42 Paris"
-    goal       = "Full-Stack developer Intern — Available September 2026"
+    goal       = "Full-Stack developer Intern — Available juillet 2026"
     languages  = ["Mandarin", "French", "English", "Spanish"]
 ```
 
