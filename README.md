@@ -52,10 +52,6 @@ class Huilin:
 
 ---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MylittleQueercat?theme=dark)](https://leetcode.com/你的用户名)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
