@@ -53,22 +53,6 @@ class Huilin:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MylittleQueercat&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MylittleQueercat&theme=tokyo-night&hide_border=true)
-
----
-
 ## 📬 Contact
 
 <div align="center">
