@@ -1,56 +1,73 @@
 <div align="center">
 
-<!-- 动态打字效果 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9A5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Huilin+GUO;42+Paris+Student;Seeking+Full-Stack+Internship+%F0%9F%9A%80;C+%2F+C%2B%2B+%2F+Python+Developer" alt="Typing SVG" /></a>
-<br/>
+```
+╔══════════════════════════════════════════════╗
+║   HUILIN GUO  ·  42 PARIS                   ║
+║   Backend / AI Engineer  ·  Available July 2026 ║
+╚══════════════════════════════════════════════╝
+```
 
-<!-- 社交联系与主页访问量（统一色调，精致紧凑） -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9A5?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/huilin-guo-782922286)
-[![Gmail](https://img.shields.io/badge/Gmail-00D9A5?style=flat-square&logo=gmail&logoColor=white)](mailto:huilin.guo.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=00D9A5)](http://linkedin.com/in/huilin-guo-782922286)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=flat-square&logo=gmail&logoColor=00D9A5)](mailto:huilin.guo.contact@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=00D9A5)](https://github.com/MylittleQueercat)
 ![Profile Views](https://komarev.com/ghpvc/?username=MylittleQueercat&color=00D9A5&style=flat-square&label=VIEWS)
 
 </div>
 
 ---
 
-## 👩‍💻 关于我 / About Me
+## `$ whoami`
 
 ```python
 class HuilinGuo:
     def __init__(self):
-        self.location       = "Paris, France 🇫🇷"
-        self.school         = "École 42 Paris 🖥️"
-        self.goal           = "Full-Stack Intern (Available July 2026) 🚀"
-        self.languages      = ["Mandarin", "French", "English", "Spanish"]
+        self.stack        = ["C/C++", "Python/FastAPI", "React", "Docker", "XRPL"]
+        self.passions     = ["privacy tech", "social impact", "open source", "block🧗 bass🎸 run🏃"]
+        self.languages    = ["Mandarin 🇨🇳", "French 🇫🇷", "English 🇬🇧", "Spanish"]
+        self.currently    = "building HerVoice + hunting dream alternance/internship"
 ```
 
 ---
 
+## `$ cat ./tech-stack.md`
 
-## 🛠 Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Technologies**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+| Domain | Technologies |
+|---|---|
+| **Languages** | C · C++98 · Python · JavaScript · TypeScript · Shell |
+| **Backend / AI** | FastAPI · SQLAlchemy · LangChain · XRPL · xrpl-py · pytest |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS · WebSocket |
+| **Infra / DevOps** | Docker · GitHub Actions · Git · Linux · PostgreSQL |
 
 ---
+
+## `$ git log --oneline --notable-achievements`
+
+```
+🏆  Won Social Impact Award @ Hack the Block 2026 (Paris Blockchain Week)
+✅  Completed 42 tronc commun — Minishell · Philosophers · Webserv · Inception · CPP 00→09
+🚀  Deployed 2 full-stack AI apps (Job Tracker · OuiCan) — live & used
+🎤  Pitched HerVoice on the Mona Stage @ Paris Blockchain Week 2026
+🏃  Finished a half-marathon in Sweden (yes, in the cold)
+```
+
+---
+
+## `$ cat ./github-stats.md`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MylittleQueercat&show_icons=true&theme=merko&hide_border=true&bg_color=0D0D0D&title_color=00D9A5&icon_color=00D9A5&text_color=AAAAAA)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MylittleQueercat&layout=compact&theme=merko&hide_border=true&bg_color=0D0D0D&title_color=00D9A5&text_color=AAAAAA)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to alternance & internship — full-stack, backend, AI engineering · Paris / Remote*
+<br>
+`huilin.guo.contact@gmail.com`
+
+</div>
