@@ -1,0 +1,56 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Huilin Guo GitHub banner</title>
+  <desc>Geometric banner: HUILIN GUO, 42 Paris, Backend / AI Engineer, Available July 2026</desc>
+
+  <rect width="680" height="200" fill="#0D1117"/>
+
+  <line x1="0" y1="1" x2="680" y2="1" stroke="#00D9A5" stroke-width="2"/>
+  <line x1="0" y1="199" x2="680" y2="199" stroke="#00D9A5" stroke-width="2"/>
+
+  <line x1="40" y1="0" x2="40" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="120" y1="0" x2="120" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="200" y1="0" x2="200" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="280" y1="0" x2="280" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="360" y1="0" x2="360" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="440" y1="0" x2="440" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="520" y1="0" x2="520" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="600" y1="0" x2="600" y2="200" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="0" y1="50" x2="680" y2="50" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="0" y1="100" x2="680" y2="100" stroke="#1C2A1E" stroke-width="0.5"/>
+  <line x1="0" y1="150" x2="680" y2="150" stroke="#1C2A1E" stroke-width="0.5"/>
+
+  <rect x="40" y="30" width="4" height="4" fill="#00D9A5" opacity="0.6"/>
+  <rect x="636" y="30" width="4" height="4" fill="#00D9A5" opacity="0.6"/>
+  <rect x="40" y="166" width="4" height="4" fill="#00D9A5" opacity="0.6"/>
+  <rect x="636" y="166" width="4" height="4" fill="#00D9A5" opacity="0.6"/>
+
+  <rect x="40" y="30" width="596" height="140" fill="none" stroke="#00D9A5" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="44" y="58"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10"
+    font-weight="400"
+    fill="#00D9A5"
+    opacity="0.5"
+    letter-spacing="0.15em">HUILIN GUO</text>
+
+  <text x="44" y="118"
+    font-family="'Arial', sans-serif"
+    font-size="52"
+    font-weight="700"
+    fill="#FFFFFF"
+    letter-spacing="-1px">HUILIN GUO</text>
+
+  <line x1="44" y1="130" x2="400" y2="130" stroke="#00D9A5" stroke-width="1.5"/>
+
+  <text x="44" y="152"
+    font-family="'Courier New', Courier, monospace"
+    font-size="12"
+    font-weight="400"
+    fill="#8B949E"
+    letter-spacing="0.05em">42 PARIS  ·  FULL-STACK / AI ENGINEER  ·  INTERN · AVAILABLE JULY 2026</text>
+
+  <rect x="588" y="60" width="48" height="80" fill="none" stroke="#00D9A5" stroke-width="0.5" opacity="0.15"/>
+  <rect x="598" y="70" width="28" height="60" fill="none" stroke="#00D9A5" stroke-width="0.5" opacity="0.1"/>
+  <line x1="612" y1="60" x2="612" y2="140" stroke="#00D9A5" stroke-width="0.5" opacity="0.15"/>
+</svg>
