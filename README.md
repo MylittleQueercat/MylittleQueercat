@@ -22,13 +22,6 @@ class HuilinGuo:
         self.school         = "École 42 Paris 🖥️"
         self.goal           = "Full-Stack Intern (Available July 2026) 🚀"
         self.languages      = ["Mandarin", "French", "English", "Spanish"]
-        
-    def current_status(self):
-        return {
-            "coding_with": ["FastAPI", "React/Next.js", "LangChain"],
-            "surviving_on": "Espresso ☕",
-            "motto": "Norminette is my best friend... or enemy? ⚖️"
-        }
 ```
 
 ---
@@ -61,12 +54,3 @@ class HuilinGuo:
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
-
-## 📬 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/huilin-guo-782922286)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huilin.guo.contact@gmail.com)
-
-</div>
