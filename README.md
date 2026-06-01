@@ -1,7 +1,6 @@
 <div align="center">
 
 ![banner](./banner.svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9A5)](http://linkedin.com/in/huilin-guo-782922286)
