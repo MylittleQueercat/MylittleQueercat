@@ -4,21 +4,31 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9A5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Huilin+GUO;42+Paris+Student;Seeking+Full-Stack+Internship+%F0%9F%9A%80;C+%2F+C%2B%2B+%2F+Python+Developer" alt="Typing SVG" /></a>
 <br/>
 
-<!-- 主页访问量 -->
-![Profile Views](https://komarev.com/ghpvc/?username=MylittleQueercat&color=00D9A5&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- 社交联系与主页访问量（统一色调，精致紧凑） -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9A5?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/huilin-guo-782922286)
+[![Gmail](https://img.shields.io/badge/Gmail-00D9A5?style=flat-square&logo=gmail&logoColor=white)](mailto:huilin.guo.contact@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=MylittleQueercat&color=00D9A5&style=flat-square&label=VIEWS)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 关于我 / About Me
 
 ```python
-class Huilin:
-    location   = "Paris, France"
-    school     = "École 42 Paris"
-    goal       = "Full-Stack developer Intern — Available juillet 2026"
-    languages  = ["Mandarin", "French", "English", "Spanish"]
+class HuilinGuo:
+    def __init__(self):
+        self.location       = "Paris, France 🇫🇷"
+        self.school         = "École 42 Paris 🖥️"
+        self.goal           = "Full-Stack Intern (Available July 2026) 🚀"
+        self.languages      = ["Mandarin", "French", "English", "Spanish"]
+        
+    def current_status(self):
+        return {
+            "coding_with": ["FastAPI", "React/Next.js", "LangChain"],
+            "surviving_on": "Espresso ☕",
+            "motto": "Norminette is my best friend... or enemy? ⚖️"
+        }
 ```
 
 ---
