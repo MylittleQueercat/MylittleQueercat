@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9A5)](http://linkedin.com/in/huilin-guo-782922286)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=00D9A5)](mailto:huilin.guo.contact@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=MylittleQueercat&color=00D9A5&style=flat-square&label=VIEWS)
 
 </div>
 
