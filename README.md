@@ -17,9 +17,9 @@
 ```python
 class HuilinGuo:
     def __init__(self):
-        self.location    = "Paris, France 🇫🇷"
-        self.school      = "École 42 Paris 🖥️"
-        self.goal        = "Full-Stack Intern (Available July 2026) 🚀"
+        self.location    = "Paris, France"
+        self.school      = "École 42 Paris"
+        self.goal        = "Full-Stack / AI Engineer Intern (Available July 2026)"
         self.languages   = ["Mandarin", "French", "English", "Spanish"]
 ```
 
